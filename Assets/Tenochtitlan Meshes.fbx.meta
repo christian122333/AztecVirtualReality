@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: e15493ccf3b47b141a38f7c6227b2224
+timeCreated: 1456266726
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arena
+    100002: BallCourt1
+    100004: BallCourt2
+    100006: MainTemple
+    100008: Port
+    100010: RandomBuilding
+    100012: SecondTemple
+    100014: Stage1
+    100016: Stage2
+    100018: StagePlatform
+    100020: TemplePlatform
+    100022: //RootNode
+    100024: ThirdTemple
+    400000: Arena
+    400002: BallCourt1
+    400004: BallCourt2
+    400006: MainTemple
+    400008: Port
+    400010: RandomBuilding
+    400012: SecondTemple
+    400014: Stage1
+    400016: Stage2
+    400018: StagePlatform
+    400020: TemplePlatform
+    400022: //RootNode
+    400024: ThirdTemple
+    2300000: Arena
+    2300002: BallCourt1
+    2300004: BallCourt2
+    2300006: MainTemple
+    2300008: Port
+    2300010: RandomBuilding
+    2300012: SecondTemple
+    2300014: Stage1
+    2300016: Stage2
+    2300018: StagePlatform
+    2300020: TemplePlatform
+    2300022: ThirdTemple
+    3300000: Arena
+    3300002: BallCourt1
+    3300004: BallCourt2
+    3300006: MainTemple
+    3300008: Port
+    3300010: RandomBuilding
+    3300012: SecondTemple
+    3300014: Stage1
+    3300016: Stage2
+    3300018: StagePlatform
+    3300020: TemplePlatform
+    3300022: ThirdTemple
+    4300000: Port
+    4300002: BallCourt1
+    4300004: BallCourt2
+    4300006: Arena
+    4300008: MainTemple
+    4300010: ThirdTemple
+    4300012: Stage1
+    4300014: Stage2
+    4300016: StagePlatform
+    4300018: RandomBuilding
+    4300020: TemplePlatform
+    4300022: SecondTemple
+    6400000: Arena
+    6400002: BallCourt1
+    6400004: BallCourt2
+    6400006: MainTemple
+    6400008: Port
+    6400010: RandomBuilding
+    6400012: SecondTemple
+    6400014: Stage1
+    6400016: Stage2
+    6400018: StagePlatform
+    6400020: TemplePlatform
+    6400022: ThirdTemple
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
